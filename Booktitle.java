@@ -72,11 +72,13 @@ public class Booktitle {
                         "http://book.itep.ru/depository/blockchain/blockchain-by-melanie-swan.pdf"};
 
 
-    String[] cse_4_2_BookTile ={""};
-    String[] cse_4_2_BookAuthor = {""};
-    String[] cse_4_2_Edition ={""};
-    String[] cse_4_2_Publications ={""};
-    String[] cse_4_2_UrlLink ={""};
+    String[] cse_4_2_BookTile ={"COMPUTER FORENSICS","MODERN SOFTWARE ENGINEERING","ENTREPRENEURSHIP AND SMALL BUSINESS ENTERPRISES"};
+    String[] cse_4_2_BookAuthor = {"John R. Vacca","James Shore and Shane Warden","Poornima M. Charantimath"};
+    String[] cse_4_2_Edition ={"","11th Indian Reprint","2e"};
+    String[] cse_4_2_Publications ={"Firewall Media","O'Reilly","Pearson"};
+    String[] cse_4_2_UrlLink ={"http://index-of.es/Varios-2/Computer%20Forensics%20Computer%20Crime%20Scene%20Investigation.pdf",
+                               "https://poetiosity.files.wordpress.com/2011/04/art_of_agile_development.pdf",
+                               "https://books.google.com.pk/books?id=RMdQoW3v9QgC&printsec=frontcover#v=onepage&q&f=false"};
 
 
 
